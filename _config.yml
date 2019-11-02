@@ -1,36 +1,41 @@
-# SITE CONFIGURATION
+# SITE CONFIGURATION Github Pages
 baseurl: "/techblog"
 url: "yanehi.github.io"
 
+# SITE CONFIGURATION Local
+#baseurl: "/techblog"
+#url: "0.0.0.0"
+
 # THEME-SPECIFIC CONFIGURATION
+# enable theme only for Github Pages
 theme: type-theme
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Yannics Techblog
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Blog für Technik Interessierte" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <h1>Herzlich Willkommen!</h1>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Ihr findet in diesem Blog Posts aus meinem täglichen Alltag als ITler.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "cinnay@web.de"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: yanehi/techblog
   gitter:
   google_plus:
   instagram:
@@ -41,7 +46,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: nevado_yannic
   wordpress:
   youtube:
 
@@ -55,13 +60,13 @@ theme_settings:
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next_post: "Next post"
+  str_next_post: "Nächster Post"
   str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
-  str_search_no_results: "No results found."
+  str_next_page: "Nächste"
+  str_previous_page: "Zurück"
+  str_continue_reading: "Weiterlesen"
+  str_javascript_required_disqus: "Bitte JavaScript aktivieren um die Kommentare zu sehen."
+  str_search_no_results: "Keine Ergebnisse gefunden..."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
