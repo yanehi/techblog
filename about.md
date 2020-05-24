@@ -7,7 +7,7 @@ feature-img: "assets/img/sample_feature_img_2.png"
 
 ## Hi,
 
-mein Name ist Yannic und ich bin aktuell Informatik Student an der Hochschule Darmstadt. Nebenher arbeite ich als Werkstudent bei der [Proventa AG](https://www.proventa.de) und beschäftige mich dort Schwerpunktmäßig mit [Postgres](https://www.postgresql.org), [EDB Postgres](https://www.enterprisedb.com), [Kubernetes](https://kubernetes.io/de/) und [Rancher](https://rancher.com). Zusätzlich versuche ich mich immer wieder mit DevOps Themen wie [CI/CD](https://docs.gitlab.com/ee/ci/), [Ansible](https://www.ansible.com/) auseinander zu setzen (unter meinem GitHub Namen findet ihr auch ein paar Ansible Rollen :D ). In meiner Freizeit treibe ich gerne Sport und versuche immer wieder an neuen Projekten mit meinem [RaspberryPi](https://www.raspberrypi.org).
+mein Name ist Yannic und ich bin aktuell Informatik Student an der Hochschule Darmstadt. Nebenher arbeite ich als Werkstudent bei der [Proventa AG](https://www.proventa.de) und beschäftige mich dort Schwerpunktmäßig mit [Postgres](https://www.postgresql.org), [EDB Postgres](https://www.enterprisedb.com), [Kubernetes](https://kubernetes.io/de/) und [Rancher](https://rancher.com). Zusätzlich versuche ich mich immer wieder mit DevOps Themen wie z.B. [CI/CD](https://docs.gitlab.com/ee/ci/) oder [Ansible](https://www.ansible.com/) auseinander zu setzen (unter meinem GitHub Namen findet ihr auch ein paar Ansible Rollen :D ). In meiner Freizeit treibe ich gerne Sport und versuche mich immer wieder an neuen [RaspberryPi](https://www.raspberrypi.org) Projekten.
 
 ## Warum dieser Blog?
 
